@@ -3,7 +3,7 @@ This project is the beginning of URL Shortener website practice start with using
 
 At first I used Python in the 1st year of university project.So I'm quite familiar with it and it'd be a good chance for rusting 
 the python skill and it's one of an easy language to understand efficiently. So it'd be fun to try with this project.
-Moreover I used it in workplace during doing the shortener website
+Moreover I used it(python) in my lastest workplace during doing the shortener website
 
 The idea is that normally usual url-shortener websites are only provide the auto-generated path 
 which mean if you shorten some url you'll get something(path) like "www.example.com/ArUfD5" where "ArUfD5" is an auto-generated path.
