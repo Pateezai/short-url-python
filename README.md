@@ -19,6 +19,6 @@ This is the first UI of website
 
 <img width="633" alt="image" src="https://github.com/Pateezai/short-url-python/assets/63127601/35824b8e-943d-4ac8-a913-52880637d423">
 
-So this version is the fristly version and it's about to show all of the link that have been shorten in DB and I haven't contonue
+So this version is the firstly version and it's about to show all of the link that have been shorten in DB and I haven't contonue
 developing this for keep forcus on just one stack(MERN)
 
