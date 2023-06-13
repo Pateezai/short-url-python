@@ -14,7 +14,9 @@ so the concept is the same but the UI might be a little be messy
 ![image](https://github.com/Pateezai/Shortener/assets/63127601/3867568a-ccf0-4afc-bf02-66d95b27c18a)
 
 
+
 This is the first UI of website 
+
 <img width="633" alt="image" src="https://github.com/Pateezai/short-url-python/assets/63127601/35824b8e-943d-4ac8-a913-52880637d423">
 
 So this version is the fristly version and it's about to show all of the link that have been shorten in DB and I haven't contonue
